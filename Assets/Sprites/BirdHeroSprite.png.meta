@@ -1,13 +1,7 @@
 fileFormatVersion: 2
-guid: 6977b3184b01fa84ebe242be4d30f11f
-timeCreated: 1475102642
-licenseType: Free
+guid: a9c136f9dcfd3954fa0f3fab6260607f
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: wood_filled_3x1_cracked
-    21300002: wood_filled_3x1
-    21300004: wood_filled_triangle
-    21300006: material_wood_0
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -31,10 +25,10 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 2048
+  maxTextureSize: 1024
   textureSettings:
-    filterMode: 0
-    aniso: 16
+    filterMode: -1
+    aniso: 1
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -48,7 +42,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
@@ -57,57 +51,44 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wood_filled_3x1_cracked
+      name: BirdHero_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 954
-        width: 220
-        height: 70
+        y: 30
+        width: 128
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: wood_filled_3x1
+      name: BirdHero_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 884
-        width: 220
-        height: 70
+        x: 128
+        y: 30
+        width: 128
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: wood_filled_triangle
+      name: BirdHero_2
       rect:
         serializedVersion: 2
-        x: 220
-        y: 234
-        width: 140
-        height: 70
+        x: 256
+        y: 30
+        width: 128
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: material_wood_0
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 454
-        width: 140
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 
